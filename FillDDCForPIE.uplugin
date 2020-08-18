@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Fill DDC For PIE",
+	"Description": "Plugin used to precache ddc data for your project.",
+	"Category": "Other",
+	"CreatedBy": "Studio Gobo Ltd",
+	"CreatedByURL": "www.studiogobo.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+    {
+      "Name": "AutomateDDC",
+      "Type": "EditorNoCommandlet",
+      "LoadingPhase": "Default"
+    }
+	]
+}
